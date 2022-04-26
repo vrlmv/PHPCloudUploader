@@ -1,6 +1,6 @@
 {
     "name": "vrlmv/php-cloud-uploader",
-    "description": "A library for uploding file into a cloud",
+    "description": "A library for uploading file into a cloud",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -14,7 +14,7 @@
             "email": "52155914+vrlmv@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "aws/aws-sdk-php": "^3.220"
     }
